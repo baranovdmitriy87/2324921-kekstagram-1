@@ -2,8 +2,7 @@
 
 * Студент: [Дмитрий Баранов](https://up.htmlacademy.ru/javascript-individual/1/user/2324921).
 * Наставник: `Мария Филиппова`.
-* Ссылка на сайт: https://baranovdmitriy87.github.io/2324921-kekstagram-1/
-
+* [ОБЗОР ПРОЕКТА](https://baranovdmitriy87.github.io/2324921-kekstagram-1/)
 
 
 Техническое задание
